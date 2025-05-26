@@ -582,7 +582,7 @@ export default function JuneteenthLanding() {
               <div className="box-3d-green p-4 sm:p-6 relative">
                 {/* Main PORTAL writing group image */}
                 <Image
-                  src="https://pub-c4eb8296ba9b4feb81d786002e04ec4c.r2.dev/JUNETEENTH%20.png"
+                  src="https://pub-c4eb8296ba9b4feb81d786002e04ec4c.r2.dev/1.JUNETEENTH.png"
                   alt="PORTAL Writing Group members"
                   width={400}
                   height={300}
