@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "Däshaun",
+        "Juneteenth", 
+        "Stegner",
+        "waitlist",
+        "markdownlint",
+        "tailwind",
+        "globals"
+    ],
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false,
+    "css.lint.unknownAtRules": "ignore",
+    "markdownlint.enable": false,
+    "cSpell.enabled": false
+}
